@@ -54,3 +54,16 @@ We need developers, domain experts, and field workers. See [CONTRIBUTING.md](CON
     <br>GPL--3.0 License — Fork it. Deploy it. Make an impact.
   </sub>
 </p>
+
+## Expanded Agents (v2)
+
+| Agent | Role |
+|-------|------|
+| **CallHandler** | Twilio voice — collect detainee info + emergency contacts |
+| **AlertEngine** | Simultaneous SMS + call + WhatsApp to all contacts |
+| **CrowdfundManager** | Stripe contributions, progress tracking, auto-close when funded |
+| **LegalRightsAdvisor** | Bail rights by state, arraignment info, public defender guidance |
+| **CourtDateTracker** | Track arraignment, hearings, trial dates. Send reminders to detainee and family. Missing a court date = re-arrest. This agent prevents that. |
+| **PublicDefenderConnector** | Connect to local public defender office, explain the process, help prepare questions for first meeting. 80% of criminal defendants qualify for public defenders but many don't know how to request one. |
+
+**6 agents. Zero platform fees. MANDATORY 988 for crisis. Free forever.**
