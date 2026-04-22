@@ -46,7 +46,7 @@ We need developers, domain experts, and field workers. See [CONTRIBUTING.md](CON
 ---
 
 <p align="center">
-  <strong>An <a href="https://oliwoodsfoundation.org">OliWoods Foundation</a> Project</strong>
+  <strong>An <a href="https://mama.oliwoods.ai/foundation">OliWoods Foundation</a> Project</strong>
   <br><em>Open-source AI tools for humanitarian and public good</em>
   <br><br>
   <sub>
